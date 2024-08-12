@@ -3,3 +3,4 @@ root                            - Diz que nao precisa procurar .editorconfig {bo
 indent_style                    - Tipo de identaçao (space/tab) {str}
 indent_size                     - Tamanho da identaçao (space) {int}
 trim_trailing_whitespace        - Retirar espaços em branco no final da linha {bool}
+Precisa da extencao do vscode pro editor config

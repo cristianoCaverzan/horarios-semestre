@@ -1,0 +1,7 @@
+npm install prettier -D               - Devdependence
+"lint:check": "prettier --check ."
+"lint:write": "prettier --write ."
+baixe a extensao prettier
+nas configuracoes:
+    botar prettier no formmater
+    format on save ligado
