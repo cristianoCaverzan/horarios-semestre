@@ -1,0 +1,1 @@
+Use os devtunnels da microsoft para abrir link de seus repositorios locais na web, acessando a extenssao do vscode no canto inferior esquerdo, ícone da rede de sinal

@@ -1,0 +1,2 @@
+Crie uma pasta "pages", o next interpreta que todos os arquivos dentro dela sao rotas da app
+    O nome do arquivo vira o nome da rota

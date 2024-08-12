@@ -1,0 +1,9 @@
+iniciando node
+    npm init
+Versionamento node
+    nvm ls                          - Lista versoes disponiveis
+    nvm install [versao]            - Se tiver um arquivo .nvmrc nao precisa da versao
+Scripts locais
+    package.json > Scripts
+        "script_name":"comando"     - Cria script local
+        npm run script_name         - Roda script no terminal
