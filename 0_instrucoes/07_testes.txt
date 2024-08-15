@@ -1,0 +1,8 @@
+test runner: jest
+npm install jest@29.6.2 -D
+crie um arquivo "tests" e entre nele
+crie arquivos .test.js para fazer os testes
+no arquivo de testes, use require para importar o arquivo de implementacao
+expect().toBe()
+expect().toEqual()
+chame a funcao test() quantas vezes forem necessarias
